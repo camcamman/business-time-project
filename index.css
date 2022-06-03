@@ -1,0 +1,23 @@
+#nav-bar{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: gray;
+    height: 50px;
+    align-items:flex-end;
+}
+.drooling-newf-pic{
+    float: left;
+    margin: 20px;
+}
+.random-pegraph{
+    font-size:x-large;
+    border: 1px solid black;
+    display: flex;
+    height:580px ;
+}
+#inline-newf-pics{
+    display: flex;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-evenly;
+{
